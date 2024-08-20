@@ -41,7 +41,5 @@ You can view and fill out the form using the link below:
 
 Contributions are welcome! If you have ideas for improving the form or the workflow, feel free to open a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
